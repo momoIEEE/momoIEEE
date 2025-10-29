@@ -1,4 +1,4 @@
-## Hi there 👋
+## Having many skills is never a burden. 👋
 
 <!--START_SECTION:waka-->
 
