@@ -22,11 +22,6 @@ jobs:
           SHOW_TIME: true # Show time spent on each item
           SHOW_TOTAL: true # Show total time
           IGNORED_LANGUAGES: YAML JSON TOML # Languages to ignore in the report
-          SHOW_GRAPH: true # Show graph of time spent (bar graph)
-          SHOW_EDITORS: true # Show which editors were used
-          SHOW_OS: true # Show which operating systems were used
-          SHOW_PROJECTS: true # Show which projects were worked on
-          SHOW_LOC_CHART: true # Show lines of code chart
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
