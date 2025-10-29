@@ -18,7 +18,7 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # Section name in the README
-          TIME_RANGE: all_time # Time range for metrics (e.g., last_7_days, last_30_days, etc.)
+          TIME_RANGE: last_30_days # Time range for metrics (e.g., last_7_days, last_30_days, etc.)
           LANG_COUNT: 15 # Number of languages to show
           SHOW_TIME: true # Show time spent on each item
           SHOW_TOTAL: true # Show total time
