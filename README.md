@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge&abbreviated=true&base=18560)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge&abbreviated=true&base=18560)
