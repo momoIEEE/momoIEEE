@@ -1,4 +1,4 @@
-## Having many skills is never a burden. 👋
+## I wish to leave a gentle ripple upon the world.. 
 
 <!--START_SECTION:waka-->
 
