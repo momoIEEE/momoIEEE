@@ -1,0 +1,12 @@
+L1 模型调用接口-线协议标准，任何人都必须遵守
+规定：怎么调用LLM
+事实标准：OpenAI API（chat completions/function calling）
+
+L2 Agent通信协议-底层通信标准，跨厂商互联的基础
+规定：Agent之间、Agent与工具之间怎么对话
+事实标准：MCP（Agent↔工具/数据，已入 Linux Foundation，established）
+     A2A（Agent↔Agent，v1.0.1，150+ 组织支持）
+
+L3 Agent 编排框架-应用层面,类比React,Vue这种前端框架
+规定：怎么把状态、节点、循环、人机介入组织起来
+这一层不会有事实标准：只是说使用最广泛的框架目前LangGrpah。
